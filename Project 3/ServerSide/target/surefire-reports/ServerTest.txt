@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ServerTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.078 s <<< FAILURE! - in ServerTest
+test1  Time elapsed: 0.047 s  <<< ERROR!
+java.lang.NullPointerException
+	at ServerTest.test1(ServerTest.java:22)
+
